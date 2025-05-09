@@ -4,7 +4,7 @@
 
 
 - Passo 1: Com a pasta "cadastro_usuarios" ja no Vscode, abra um terminal e mude para cmd ao invés de powershell (so escrever cmd no terminal e dar enter)
-- ou abra o cmd no windows na pasta do cadastro_de_usuarios
+- ou abra o cmd no windows na pasta do cadastro_usuarios
 <br>
 
 - Passo 2: escreva no terminal o codigo: npx json-server dados.json 

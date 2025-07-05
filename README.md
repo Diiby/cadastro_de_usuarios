@@ -7,7 +7,7 @@
 - ou abra o cmd no windows na pasta do cadastro_usuarios
 <br>
 
-- Passo 2: escreva no terminal o codigo: npx json-server dados.json 
+- Passo 2: escreva no terminal o codigo: npm install e depois npm start
 - vai abrir a opção de entrar no localhost:3000 e acessar o servidor web
 <br>
 

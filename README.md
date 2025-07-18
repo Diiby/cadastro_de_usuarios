@@ -8,6 +8,7 @@
 <br>
 
 - Passo 2: escreva no terminal o codigo: npm install e depois npm start
+- Obs: pode usar tb o npx json-server dados.json (ter o json-server instalado tb)
 - vai abrir a opção de entrar no localhost:3000 e acessar o servidor web
 <br>
 
